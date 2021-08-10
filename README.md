@@ -7,9 +7,9 @@
 [Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.3.zip "Download")
 
 Enhance your Seamoth with ***animated GUI*** Enhanced Enhancements of original Enhanced Enhancements! Add Safety Enhancements which will provide you with:
-- Emergency Deep Trickle Charger
-- Colision Auto Cut-off Cruise Control
-- Seamoth - Player No-colision Exit
+- Emergency Deep Trickle Charger [![Deep Trickle Charger](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_charger_on_100x100.png?raw=true "Deep Trickle Charger")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_charger_on_100x100.png?raw=true "Deep Trickle Charger")
+- Colision Auto Cut-off Cruise Control [![Auto Cut-off Cruise Control](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_cruise_yes_100x100.png?raw=true "Auto Cut-off Cruise Control")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_cruise_yes_100x100.png?raw=true "Auto Cut-off Cruise Control")
+- Seamoth - Player No-collision Exit [![No-collision Exit ](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_eject_yes_100x100.png?raw=true "No-collision Exit ")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_eject_yes_100x100.png?raw=true "No-collision Exit ")
 
 [![Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements Beta](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SafetySeamothEnhancementSystem.png?raw=true "Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements Beta")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SafetySeamothEnhancementSystem.png?raw=true "Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements Beta")
 
