@@ -2,6 +2,17 @@
 # Mimes Subnautica Mods
 [![Mimes](https://forums.nexusmods.com/uploads/profile/photo-thumb-437899.jpg?r_=1608813554 "Mimes")](https://forums.nexusmods.com/uploads/profile/photo-thumb-437899.jpg?r_=1608813554 "Mimes")
 
+
+------------
+
+### More Chip Slots Beta
+
+[Download v 0.0.2](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-0.0.2.zip "Download")
+
+This simple mod add 2 extra Chip slot in the PDA. Players can now use 4 items requiring a mudule inserted into a Chip slot simultaneously.
+
+[![MoreChipSlots-Beta](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-Beta.png?raw=true "MoreChipSlots-Beta")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-Beta.png?raw=true "MoreChipSlots-Beta")
+
 ------------
 ### Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements (Beta)
 [Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.3.zip "Download")
@@ -42,6 +53,7 @@ Improve your Moonpool. At a glance check your vehicle cell capacity, charge and 
 
 ### Better HUD Info v 1.1.0
 [Download v 1.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo.zip "Download v 1.1.0")
+
 [Download v 1.0.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo.zip "Download")
 
 Dive into unknown seas with full HUD info at your fingertips. See base hull strength, time, Biome, temperature and more in real time. Customise and use only what you need.
@@ -52,7 +64,8 @@ Version 1.1.0:
 - "Enhanced Hud Chip" is unlocked with Compass.
 - "Enhanced Hud Chip" must be equipped in a Chip slot to be active.
 - Compass now moves down automatically is player opts to display HUD on 2 lines.
-- Error showing time between 12:00 pm and 12:59 pm being marked incorrectly as am was fixed
+- Error showing time between 12:00 pm and 12:59 pm being marked incorrectly as am was fixed.
+
 [![BetterHUDInfo Chip](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-Chip.png?raw=true "BetterHUDInfo Chip")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-Chip.png?raw=true "BetterHUDInfo Chip")
 
 [![Better HUD Info](https://staticdelivery.nexusmods.com/mods/1155/images/631/631-1609401786-1521386950.png "Better HUD Info")](https://staticdelivery.nexusmods.com/mods/1155/images/631/631-1609401786-1521386950.png "Better HUD Info")
