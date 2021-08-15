@@ -40,10 +40,20 @@ Improve your Moonpool. At a glance check your vehicle cell capacity, charge and 
 
 ------------
 
-### Better HUD Info
-[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo.zip "Download")
+### Better HUD Info v 1.1.0
+[Download v 1.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo.zip "Download v 1.1.0")
+[Download v 1.0.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo.zip "Download")
 
 Dive into unknown seas with full HUD info at your fingertips. See base hull strength, time, Biome, temperature and more in real time. Customise and use only what you need.
+
+Version 1.1.0:
+- Code was completely re-worked
+- To use Better HUD, player must first create "Enhanced Hud Chip" in fabricator under equipment.
+- "Enhanced Hud Chip" is unlocked with Compass.
+- "Enhanced Hud Chip" must be equipped in a Chip slot to be active.
+- Compass now moves down automatically is player opts to display HUD on 2 lines.
+- Error showing time between 12:00 pm and 12:59 pm being marked incorrectly as am was fixed
+[![BetterHUDInfo Chip](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-Chip.png?raw=true "BetterHUDInfo Chip")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-Chip.png?raw=true "BetterHUDInfo Chip")
 
 [![Better HUD Info](https://staticdelivery.nexusmods.com/mods/1155/images/631/631-1609401786-1521386950.png "Better HUD Info")](https://staticdelivery.nexusmods.com/mods/1155/images/631/631-1609401786-1521386950.png "Better HUD Info")
 
