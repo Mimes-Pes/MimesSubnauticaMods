@@ -60,7 +60,7 @@ Dive into unknown seas with full HUD info at your fingertips. See base hull stre
 
 Version 1.1.0:
 - Code was completely re-worked
-- To use Better HUD, player must first create "Enhanced Hud Chip" in fabricator under equipment.
+- To use Better HUD, player must first create "Enhanced Hud Chip" in fabricator under equipment. [![Enhanced HUD Chip](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/EnhancedHUDChip.png?raw=true "Enhanced HUD Chip")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/EnhancedHUDChip.png?raw=true "Enhanced HUD Chip")
 - "Enhanced Hud Chip" is unlocked with Compass.
 - "Enhanced Hud Chip" must be equipped in a Chip slot to be active.
 - Compass now moves down automatically is player opts to display HUD on 2 lines.
