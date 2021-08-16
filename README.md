@@ -7,7 +7,7 @@
 
 ### More Chip Slots Beta
 
-[Download v 0.0.2](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-0.0.2.zip "Download")
+[Download v 0.0.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-0.0.3.zip "Download")
 
 This simple mod adds 2 extra Chip slots in the PDA. Players can now use 4 items requiring a module inserted into the Chip slot simultaneously.
 
