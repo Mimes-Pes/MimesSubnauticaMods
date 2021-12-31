@@ -60,7 +60,11 @@ Improve your Moonpool. At a glance check your vehicle cell capacity, charge and 
 
 Dive into unknown seas with full HUD info at your fingertips. See base hull strength, time, Biome, temperature and more in real time. Customise and use only what you need.
 
-- Better HUD Info 1.1.1 [![Better HUD Info 1.1.1 ](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-1.1.1.png?raw=true "Better HUD Info 1.1.1 ")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-1.1.1.png?raw=true "Better HUD Info 1.1.1 ")
+- Better HUD Info 1.1.1
+- Added a lot of new GUI features
+- Completely customisable via mod options
+
+[![Better HUD Info 1.1.1 ](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-1.1.1.png?raw=true "Better HUD Info 1.1.1 ")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-1.1.1.png?raw=true "Better HUD Info 1.1.1 ")
 
 Version 1.1.0:
 - Code was completely re-worked
