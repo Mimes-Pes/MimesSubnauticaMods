@@ -53,7 +53,9 @@ Improve your Moonpool. At a glance check your vehicle cell capacity, charge and 
 
 ------------
 
-### Better HUD Info v 1.1.1
+### Better HUD Info v 1.1.2
+[Download v 1.1.2](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-1.1.2.zip "Download v 1.1.2")
+
 [Download v 1.1.1](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-1.1.1.zip "Download v 1.1.1")
 
 [Download v 1.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-1.1.0.zip "Download v 1.1.0")
