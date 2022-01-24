@@ -43,9 +43,11 @@ Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, 
 
 
 ### Moonpool Display and Repair
+[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair-1.0.3.zip "Download")
+
 [Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair.zip "Download")
 
-Improve your Moonpool. At a glance check your vehicle cell capacity, charge and health. See your base hull strength before using Habitat Builder. Let Moonpool charge & fix your subs.
+Improve your Moonpool. At a glance check your vehicle cell capacity, charge and health. See your base hull strength before using Habitat Builder. Let Moonpool charge & fix your subs. Version 1.0.3 was rewritten, it has charging and repairs reporting improvements and a number of logic fixes.
 
 [![Moonpool Display and Repair](https://staticdelivery.nexusmods.com/mods/1155/images/628/628-1609163475-1928385286.png "Moonpool Display and Repair")](https://staticdelivery.nexusmods.com/mods/1155/images/628/628-1609163475-1928385286.png "Moonpool Display and Repair")
 
