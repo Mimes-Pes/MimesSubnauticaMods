@@ -43,7 +43,7 @@ Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, 
 
 
 ### Moonpool Display and Repair
-[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair-1.0.3.zip "Download")
+[Download v 1.0.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair-1.0.3.zip "Download")
 
 [Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair.zip "Download")
 
@@ -64,6 +64,7 @@ Improve your Moonpool. At a glance check your vehicle cell capacity, charge and 
 
 Dive into unknown seas with full HUD info at your fingertips. See base hull strength, time, Biome, temperature and more in real time. Customise and use only what you need.
 
+- Better HUD Info 1.1.2 (bug fixes for v 1.1.1)
 - Better HUD Info 1.1.1
 - Added a lot of new GUI features
 - Completely customisable via mod options
