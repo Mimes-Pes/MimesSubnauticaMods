@@ -66,6 +66,7 @@ Improve your Moonpool. At a glance check your vehicle cell capacity, charge and 
 
 Dive into unknown seas with full HUD info at your fingertips. See base hull strength, time, Biome, temperature and more in real time. Customise and use only what you need.
 
+- Better HUD Info 1.1.3 (bug fixes for v 1.1.2)
 - Better HUD Info 1.1.2 (bug fixes for v 1.1.1)
 - Better HUD Info 1.1.1
 - Added a lot of new GUI features
