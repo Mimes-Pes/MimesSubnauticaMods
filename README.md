@@ -33,7 +33,7 @@ Mods from Nexus as of 10th of August 2021:
 
 
 ### Seamoth Enhancement System
-[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem.zip "Download")
+[Download v 0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.4.zip "Download")
 
 Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, Turbo mode, Cruise Control, Gears and Speedometer.
 
