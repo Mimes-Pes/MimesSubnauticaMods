@@ -13,6 +13,8 @@ This mod aims at improving immersion in  Subnautica. Many, many thanks go to Met
 
 [![ImmersiveOutcropBreak v0.8.2](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-01.png?raw=true "ImmersiveOutcropBreak v0.8.2")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-01.png?raw=true "ImmersiveOutcropBreak")
 
+[![ImmersiveOutcropBreak v0.8.2](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-02.png?raw=true "ImmersiveOutcropBreak v0.8.2")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-02.png?raw=true "ImmersiveOutcropBreak")
+
 ### More Chip Slots
 
 [Download v 0.0.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-0.0.3.zip "Download")
