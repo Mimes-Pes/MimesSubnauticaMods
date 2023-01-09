@@ -7,13 +7,13 @@
 
 ### Immersive Outcrop Break
 
-[ImmersiveOutcropBreak v0.9.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-0.9.3.zip "Download")
+[ImmersiveOutcropBreak v0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-0.9.4.zip "Download")
 
 This mod aims at improving immersion in  Subnautica. Many, many thanks go to Metious, who tirelessly helped me out with the 3D side of things. Outcrops are now unable to be broken by bare hands. They can be broken by tools (as per vanilla) or if a player has (any) gloves equipped. With this mod there is no more clink sound on outcrop with bare hands, which sounded a bit odd. Gloves for braking outcrops are made of Titanium so clink when bashing outcrops is to be expected. With this mod, player can also make a Glove Chip, which project on HUD storage metrics, such as inventory size or free inventory slots left. Glove Chips and Advanced Outcrop Gloves now help with breaking outcrops, to the point where with most advanced equipment outcrop shale is broken and ore is picked up automatically, without a single click - let those clickety fingers rest while you collect all the goodies.
 
-[![ImmersiveOutcropBreak v0.9.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-01.png?raw=true "ImmersiveOutcropBreak v0.9.3")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-01.png?raw=true "ImmersiveOutcropBreak")
+[![ImmersiveOutcropBreak v0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-01.png?raw=true "ImmersiveOutcropBreak v0.9.4")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-01.png?raw=true "ImmersiveOutcropBreak")
 
-[![ImmersiveOutcropBreak v0.9.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-02.png?raw=true "ImmersiveOutcropBreak v0.9.3")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-02.png?raw=true "ImmersiveOutcropBreak")
+[![ImmersiveOutcropBreak v0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-02.png?raw=true "ImmersiveOutcropBreak v0.9.4")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-02.png?raw=true "ImmersiveOutcropBreak")
 
 ### More Chip Slots
 
