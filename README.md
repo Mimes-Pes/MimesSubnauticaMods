@@ -45,7 +45,7 @@ Version 1.1.0:
 
 [Extra Tabs v0.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ExtraTabs-0.1.0.zip "Download")
 
-This mod is more of a mod for my personal use rather than a mod to be used by many players. It is included here in case some find it useful. I felt a need to organise menus in Fabricator and Workbench to be more manageable and easier to view and use. I play Subnautica with 145 mods which made these menus very hard to use. This mod requires CustomCrasft2SML mod.
+This mod is more of a mod for my personal use rather than a mod to be used by many players. It is included here in case some finds it useful. I felt a need to organise menus in Fabricator and Workbench to be more manageable and easier to view and use. I play Subnautica with 145 mods which made these menus very hard to use. This mod requires CustomCrasft2SML mod.
 
 To use this mod, one needs to do the following:
 
@@ -106,6 +106,23 @@ Oxygen Audio Monitor Chip uses Stalker sounds coded in their tooth DNA, which it
 [![OxygenAudioMonitor](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenAudioMonitor-01.png?raw=true "OxygenAudioMonitor")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenAudioMonitor-01.png?raw=true "OxygenAudioMonitor")
 
 [![OxygenAudioMonitor](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenAudioMonitor-02.png?raw=true "OxygenAudioMonitor")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenAudioMonitor-02.png?raw=true "OxygenAudioMonitor")
+
+------------
+
+### Oxygen Canisters (Legacy)
+### Idea and parts of code misappropriated (with permission), added cool graphics, skins, lore logic and a chip, and converted to Subnautica Legacy from the original mod by Ramune
+
+This mod will not spam player's Subnautica experience with pirate nonsense, unlike the original exclusive for BepInEx mod, which tries to "guess" if a player purchased or pirated Subnautica game.
+
+[Download v 0.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-1.0.0.zip "Download")
+
+Technology to fabricate oxygen canisters is unlocked by acquiring a fragment from Oxygen producing Brain Coral. It is a disposable canister providing player with 35 seconds of additional Oxygen. Canister is made out of titanium and Fiber Mesh, together with Oxygen rich Brain Coral Piece. Oxygen Canister Monitor Chip projects Oxygen canister count and other canister information onto HUD. Quick consume key is now configurable.
+
+[![OxygenCanisters](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-01.png?raw=true "OxygenCanisters")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-01.png?raw=true "OxygenCanisters")
+
+[![OxygenCanisters](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-02.png?raw=true "OxygenCanisters")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-02.png?raw=true "OxygenCanisters")
+
+[![OxygenCanisters](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-03.png?raw=true "OxygenCanisters")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-03.png?raw=true "OxygenCanisters")
 
 ------------
 
