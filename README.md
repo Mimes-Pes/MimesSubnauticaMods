@@ -72,6 +72,18 @@ This mod aims at improving immersion in  Subnautica. Many, many thanks go to Met
 ------------
 
 
+### Moonpool Display and Repair (Legacy)
+[Download v 1.0.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair-1.0.3.zip "Download")
+
+[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair.zip "Download")
+
+Improve your Moonpool. At a glance check your vehicle cell capacity, charge and health. See your base hull strength before using Habitat Builder. Let Moonpool charge & fix your subs. Version 1.0.3 was rewritten, it has charging and repairs reporting improvements and a number of logic fixes.
+
+[![Moonpool Display and Repair](https://staticdelivery.nexusmods.com/mods/1155/images/628/628-1609163475-1928385286.png "Moonpool Display and Repair")](https://staticdelivery.nexusmods.com/mods/1155/images/628/628-1609163475-1928385286.png "Moonpool Display and Repair")
+
+------------
+
+
 ### More Chip Slots (Legacy)
 
 [Download v 0.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-0.1.0.zip "Download")
@@ -85,7 +97,21 @@ This simple mod adds up to 6 extra Chip slots in the PDA. Players can now use up
 ------------
 
 
-### Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements (Beta)
+### Oxygen Audio Monitor (Legacy)
+
+[Download v 0.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenAudioMonitor-0.1.0.zip "Download")
+
+Oxygen Audio Monitor Chip uses Stalker sounds coded in their tooth DNA, which it converts to warning messages for O2 levels at 50, 25, 10%, and 30s of O2 left. This mod is compatible with Scuba Mainfold mod.
+
+[![OxygenAudioMonitor](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenAudioMonitor-01.png?raw=true "OxygenAudioMonitor")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenAudioMonitor-01.png?raw=true "OxygenAudioMonitor")
+
+[![OxygenAudioMonitor](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenAudioMonitor-02.png?raw=true "OxygenAudioMonitor")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenAudioMonitor-02.png?raw=true "OxygenAudioMonitor")
+
+------------
+
+
+### Seamoth Enhancement System with Enhanced Enhancements by Super Safety Enhanced Enhancements (Legacy)
+
 [Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.3.zip "Download")
 
 Enhance your Seamoth with ***animated GUI*** Enhanced Enhancements of original Enhanced Enhancements! Add Safety Enhancements which will provide you with:
@@ -104,18 +130,6 @@ Enhance your Seamoth with ***animated GUI*** Enhanced Enhancements of original E
 Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, Turbo mode, Cruise Control, Gears and Speedometer.
 
 [![Seamoth Enhancement System](https://staticdelivery.nexusmods.com/mods/1155/images/717/717-1617966280-1962023812.png "Seamoth Enhancement System")](https://staticdelivery.nexusmods.com/mods/1155/images/717/717-1617966280-1962023812.png "Seamoth Enhancement System")
-
-------------
-
-
-### Moonpool Display and Repair
-[Download v 1.0.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair-1.0.3.zip "Download")
-
-[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair.zip "Download")
-
-Improve your Moonpool. At a glance check your vehicle cell capacity, charge and health. See your base hull strength before using Habitat Builder. Let Moonpool charge & fix your subs. Version 1.0.3 was rewritten, it has charging and repairs reporting improvements and a number of logic fixes.
-
-[![Moonpool Display and Repair](https://staticdelivery.nexusmods.com/mods/1155/images/628/628-1609163475-1928385286.png "Moonpool Display and Repair")](https://staticdelivery.nexusmods.com/mods/1155/images/628/628-1609163475-1928385286.png "Moonpool Display and Repair")
 
 ------------
 
