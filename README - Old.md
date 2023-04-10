@@ -2,8 +2,66 @@
 # Mimes Subnautica Mods
 [![Mimes](https://forums.nexusmods.com/uploads/profile/photo-thumb-437899.jpg?r_=1608813554 "Mimes")](https://forums.nexusmods.com/uploads/profile/photo-thumb-437899.jpg?r_=1608813554 "Mimes")
 
+
 ------------
 
+### Immersive Outcrop Break
+
+[ImmersiveOutcropBreak v0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-0.9.4.zip "Download")
+
+This mod aims at improving immersion in  Subnautica. Many, many thanks go to Metious, who tirelessly helped me out with the 3D side of things. Outcrops are now unable to be broken by bare hands. They can be broken by tools (as per vanilla) or if a player has (any) gloves equipped. With this mod there is no more clink sound on outcrop with bare hands, which sounded a bit odd. Gloves for braking outcrops are made of Titanium so clink when bashing outcrops is to be expected. With this mod, player can also make a Glove Chip, which project on HUD storage metrics, such as inventory size or free inventory slots left. Glove Chips and Advanced Outcrop Gloves now help with breaking outcrops, to the point where with most advanced equipment outcrop shale is broken and ore is picked up automatically, without a single click - let those clickety fingers rest while you collect all the goodies.
+
+[![ImmersiveOutcropBreak v0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-01.png?raw=true "ImmersiveOutcropBreak v0.9.4")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-01.png?raw=true "ImmersiveOutcropBreak")
+
+[![ImmersiveOutcropBreak v0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-02.png?raw=true "ImmersiveOutcropBreak v0.9.4")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-02.png?raw=true "ImmersiveOutcropBreak")
+
+### More Chip Slots
+
+[Download v 0.0.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-0.0.3.zip "Download")
+
+This simple mod adds 2 extra Chip slots in the PDA. Players can now use 4 items requiring a module inserted into the Chip slot simultaneously.
+
+[![MoreChipSlots-Beta](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots.png?raw=true "MoreChipSlots")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots.png?raw=true "MoreChipSlots")
+
+------------
+### Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements (Beta)
+[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.3.zip "Download")
+
+Enhance your Seamoth with ***animated GUI*** Enhanced Enhancements of original Enhanced Enhancements! Add Safety Enhancements which will provide you with:
+- Emergency Deep Trickle Charger [![Deep Trickle Charger](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_charger_on_100x100.png?raw=true "Deep Trickle Charger")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_charger_on_100x100.png?raw=true "Deep Trickle Charger")
+- Colision Auto Cut-off Cruise Control [![Auto Cut-off Cruise Control](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_cruise_yes_100x100.png?raw=true "Auto Cut-off Cruise Control")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_cruise_yes_100x100.png?raw=true "Auto Cut-off Cruise Control")
+- Seamoth - Player No-collision Exit [![No-collision Exit ](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_eject_yes_100x100.png?raw=true "No-collision Exit ")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_eject_yes_100x100.png?raw=true "No-collision Exit ")
+
+[![Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements Beta](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SafetySeamothEnhancementSystem.png?raw=true "Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements Beta")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SafetySeamothEnhancementSystem.png?raw=true "Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements Beta")
+
+
+------------
+
+Mods from Nexus as of 10th of August 2021:
+
+------------
+
+
+### Seamoth Enhancement System
+[Download v 0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.4.zip "Download")
+
+Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, Turbo mode, Cruise Control, Gears and Speedometer.
+
+[![Seamoth Enhancement System](https://staticdelivery.nexusmods.com/mods/1155/images/717/717-1617966280-1962023812.png "Seamoth Enhancement System")](https://staticdelivery.nexusmods.com/mods/1155/images/717/717-1617966280-1962023812.png "Seamoth Enhancement System")
+
+------------
+
+
+### Moonpool Display and Repair
+[Download v 1.0.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair-1.0.3.zip "Download")
+
+[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair.zip "Download")
+
+Improve your Moonpool. At a glance check your vehicle cell capacity, charge and health. See your base hull strength before using Habitat Builder. Let Moonpool charge & fix your subs. Version 1.0.3 was rewritten, it has charging and repairs reporting improvements and a number of logic fixes.
+
+[![Moonpool Display and Repair](https://staticdelivery.nexusmods.com/mods/1155/images/628/628-1609163475-1928385286.png "Moonpool Display and Repair")](https://staticdelivery.nexusmods.com/mods/1155/images/628/628-1609163475-1928385286.png "Moonpool Display and Repair")
+
+------------
 
 ### Better HUD Info v 1.1.3
 [Download v 1.1.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-1.1.3.zip "Download v 1.1.3")
@@ -39,84 +97,6 @@ Version 1.1.0:
 [![Better HUD Info](https://staticdelivery.nexusmods.com/mods/1155/images/631/631-1609401786-1521386950.png "Better HUD Info")](https://staticdelivery.nexusmods.com/mods/1155/images/631/631-1609401786-1521386950.png "Better HUD Info")
 
 ------------
-
-
-### Extra Tabs
-
-[Extra Tabs v0.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ExtraTabs-0.1.0.zip "Download")
-
-This mod is more of a mod for my personal use rather than a mod to be used by many players. It is included here in case some find it useful. I felt a need to organise menus in Fabricator and Workbench to be more manageable and easier to view and use. I play Subnautica with 145 mods which made these menus very hard to use. This mod requires CustomCrasft2SML mod.
-
-To use this mod, one needs to do the following:
-
-1. Unzip ExtraTabs directory into QMods directory
-2. Unzip file OrganisedTabs_MovedRecipes.txt into QMods\CustomCraft2SML\WorkingFiles directory
-
-One can also slightly modify other mods to move their tabs into newly created sub-tabs.
-
-[![ExtraTabs](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ExtraTabs.png?raw=true "ExtraTabs")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ExtraTabs.png?raw=true "ExtraTabs")
-
-------------
-
-
-### Immersive Outcrop Break
-
-[ImmersiveOutcropBreak v0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-0.9.4.zip "Download")
-
-This mod aims at improving immersion in  Subnautica. Many, many thanks go to Metious, who tirelessly helped me out with the 3D side of things. Outcrops are now unable to be broken by bare hands. They can be broken by tools (as per vanilla) or if a player has (any) gloves equipped. With this mod there is no more clink sound on outcrop with bare hands, which sounded a bit odd. Gloves for braking outcrops are made of Titanium so clink when bashing outcrops is to be expected. With this mod, player can also make a Glove Chip, which project on HUD storage metrics, such as inventory size or free inventory slots left. Glove Chips and Advanced Outcrop Gloves now help with breaking outcrops, to the point where with most advanced equipment outcrop shale is broken and ore is picked up automatically, without a single click - let those clickety fingers rest while you collect all the goodies.
-
-[![ImmersiveOutcropBreak v0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-01.png?raw=true "ImmersiveOutcropBreak v0.9.4")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-01.png?raw=true "ImmersiveOutcropBreak")
-
-[![ImmersiveOutcropBreak v0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-02.png?raw=true "ImmersiveOutcropBreak v0.9.4")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-02.png?raw=true "ImmersiveOutcropBreak")
-
-------------
-
-
-### More Chip Slots
-
-[Download v 0.0.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-0.0.3.zip "Download")
-
-This simple mod adds 2 extra Chip slots in the PDA. Players can now use 4 items requiring a module inserted into the Chip slot simultaneously.
-
-[![MoreChipSlots-Beta](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots.png?raw=true "MoreChipSlots")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots.png?raw=true "MoreChipSlots")
-
-------------
-
-
-### Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements (Beta)
-[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.3.zip "Download")
-
-Enhance your Seamoth with ***animated GUI*** Enhanced Enhancements of original Enhanced Enhancements! Add Safety Enhancements which will provide you with:
-- Emergency Deep Trickle Charger [![Deep Trickle Charger](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_charger_on_100x100.png?raw=true "Deep Trickle Charger")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_charger_on_100x100.png?raw=true "Deep Trickle Charger")
-- Colision Auto Cut-off Cruise Control [![Auto Cut-off Cruise Control](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_cruise_yes_100x100.png?raw=true "Auto Cut-off Cruise Control")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_cruise_yes_100x100.png?raw=true "Auto Cut-off Cruise Control")
-- Seamoth - Player No-collision Exit [![No-collision Exit ](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_eject_yes_100x100.png?raw=true "No-collision Exit ")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_eject_yes_100x100.png?raw=true "No-collision Exit ")
-
-[![Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements Beta](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SafetySeamothEnhancementSystem.png?raw=true "Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements Beta")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SafetySeamothEnhancementSystem.png?raw=true "Super Safety Enhanced Seamoth Enhancement System with Enhanced Enhancements Beta")
-
-------------
-
-
-### Seamoth Enhancement System
-[Download v 0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.4.zip "Download")
-
-Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, Turbo mode, Cruise Control, Gears and Speedometer.
-
-[![Seamoth Enhancement System](https://staticdelivery.nexusmods.com/mods/1155/images/717/717-1617966280-1962023812.png "Seamoth Enhancement System")](https://staticdelivery.nexusmods.com/mods/1155/images/717/717-1617966280-1962023812.png "Seamoth Enhancement System")
-
-------------
-
-
-### Moonpool Display and Repair
-[Download v 1.0.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair-1.0.3.zip "Download")
-
-[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoonpoolDisplayRepair.zip "Download")
-
-Improve your Moonpool. At a glance check your vehicle cell capacity, charge and health. See your base hull strength before using Habitat Builder. Let Moonpool charge & fix your subs. Version 1.0.3 was rewritten, it has charging and repairs reporting improvements and a number of logic fixes.
-
-[![Moonpool Display and Repair](https://staticdelivery.nexusmods.com/mods/1155/images/628/628-1609163475-1928385286.png "Moonpool Display and Repair")](https://staticdelivery.nexusmods.com/mods/1155/images/628/628-1609163475-1928385286.png "Moonpool Display and Repair")
-
-------------
-
 
 ### Remove Options Buttons
 [Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/RemoveOptionsButtons.zip "Download")
