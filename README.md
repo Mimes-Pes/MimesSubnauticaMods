@@ -186,4 +186,11 @@ Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, 
 ------------
 
 
+### Start With Empty Hands (Legacy)
+[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/StartWithEmptyHands.zip "Download")
+
+Does exactly as the title suggests.
+
+------------
+
 I am afraid that is the extend of my Subnautica modding contribution, most of which I got help from legendary people like code guru Metious, 2D virtuozo Al-An, Unity expert AndreaDev-3D, inspirational Holograms, and immaculate tester Kelsarhu (Rose).
