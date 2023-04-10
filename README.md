@@ -109,6 +109,7 @@ Oxygen Audio Monitor Chip uses Stalker sounds coded in their tooth DNA, which it
 
 ------------
 
+
 ### Oxygen Canisters (Legacy)
 ### Idea and parts of code misappropriated (with permission), added cool graphics, skins, lore logic and a chip, and converted to Subnautica Legacy from the original mod by Ramune
 
@@ -123,6 +124,20 @@ Technology to fabricate oxygen canisters is unlocked by acquiring a fragment fro
 [![OxygenCanisters](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-02.png?raw=true "OxygenCanisters")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-02.png?raw=true "OxygenCanisters")
 
 [![OxygenCanisters](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-03.png?raw=true "OxygenCanisters")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-03.png?raw=true "OxygenCanisters")
+
+------------
+
+### Oxygen Tank Monitor (Legacy)
+
+[Download v 0.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenTankMonitor-0.1.0.zip "Download")
+
+Oxygen Tank Monitor enables detailed monitoring of Oxygen tank status in HUD as well as enable a snorkel mode, which allows breathing via snorkel and ensures constant swimming depth with free look at an ocean floor below - just like real snorkeling.
+
+[![OxygenTankMonitor](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenTankMonitor-01.png?raw=true "OxygenCanisters")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenTankMonitor-01.png?raw=true "OxygenTankMonitor")
+
+[![OxygenTankMonitor](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenTankMonitor-02.png?raw=true "OxygenCanisters")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenTankMonitor-02.png?raw=true "OxygenTankMonitor")
+
+[![OxygenTankMonitor](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenTankMonitor-03.png?raw=true "OxygenCanisters")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenTankMonitor-03.png?raw=true "OxygenTankMonitor")
 
 ------------
 
