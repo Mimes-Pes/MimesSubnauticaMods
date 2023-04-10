@@ -72,13 +72,15 @@ This mod aims at improving immersion in  Subnautica. Many, many thanks go to Met
 ------------
 
 
-### More Chip Slots
+### More Chip Slots (Legacy)
 
-[Download v 0.0.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-0.0.3.zip "Download")
+[Download v 0.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-0.1.0.zip "Download")
 
-This simple mod adds 2 extra Chip slots in the PDA. Players can now use 4 items requiring a module inserted into the Chip slot simultaneously.
+This simple mod adds up to 6 extra Chip slots in the PDA. Players can now use up to 8 items requiring a module inserted into the Chip slot simultaneously. Extra number of chip slots is configurable.
 
-[![MoreChipSlots-Beta](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots.png?raw=true "MoreChipSlots")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots.png?raw=true "MoreChipSlots")
+[![MoreChipSlots](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-01.png?raw=true "MoreChipSlots")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-01.png?raw=true "MoreChipSlots")
+
+[![MoreChipSlots](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-02.png?raw=true "MoreChipSlots")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-02.png?raw=true "MoreChipSlots")
 
 ------------
 
