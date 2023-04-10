@@ -5,7 +5,7 @@
 ------------
 
 
-### Better HUD Info v 1.1.3
+### Better HUD Info v 1.1.3 (Legacy)
 [Download v 1.1.3](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-1.1.3.zip "Download v 1.1.3")
 
 [Download v 1.1.2](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/BetterHUDInfo-1.1.2.zip "Download v 1.1.2")
@@ -41,7 +41,7 @@ Version 1.1.0:
 ------------
 
 
-### Extra Tabs
+### Extra Tabs (Legacy)
 
 [Extra Tabs v0.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ExtraTabs-0.1.0.zip "Download")
 
@@ -59,7 +59,7 @@ One can also slightly modify other mods to move their tabs into newly created su
 ------------
 
 
-### Immersive Outcrop Break
+### Immersive Outcrop Break (Legacy)
 
 [ImmersiveOutcropBreak v0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ImmersiveOutcropBreak-0.9.4.zip "Download")
 
