@@ -193,4 +193,15 @@ Does exactly as the title suggests.
 
 ------------
 
+
+### Tools Flash Light (Legacy)
+[Download v 0.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/raw/main/ToolsFlashLight-0.1.0.zip "Download")
+
+With a help of a corresponding Tool Light Chip you can enable tiny LED light mounted at the front of each tool in Subnautica. It even lets you to zoom light beam in and out, just like the real flashlight.
+
+[![ToolsFlashLight](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ToolsFlashLight-01.png?raw=true "OxygenCanisters")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/ToolsFlashLight-01.png?raw=true "ToolsFlashLight")
+
+------------
+
+
 I am afraid that is the extend of my Subnautica modding contribution, most of which I got help from legendary people like code guru Metious, 2D virtuozo Al-An, Unity expert AndreaDev-3D, inspirational Holograms, and immaculate tester Kelsarhu (Rose).
