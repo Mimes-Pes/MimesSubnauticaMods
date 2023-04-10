@@ -164,7 +164,7 @@ Does exactly as the title suggests.
 
 ### Seamoth Enhancement System with Enhanced Enhancements by Super Safety Enhanced Enhancements (Legacy)
 
-[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.3.zip "Download")
+[Download v 0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.4.zip "Download")
 
 Enhance your Seamoth with ***animated GUI*** Enhanced Enhancements of original Enhanced Enhancements! Add Safety Enhancements which will provide you with:
 - Emergency Deep Trickle Charger [![Deep Trickle Charger](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_charger_on_100x100.png?raw=true "Deep Trickle Charger")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/safety_charger_on_100x100.png?raw=true "Deep Trickle Charger")
@@ -176,10 +176,10 @@ Enhance your Seamoth with ***animated GUI*** Enhanced Enhancements of original E
 ------------
 
 
-### Seamoth Enhancement System
-[Download v 0.9.4](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.4.zip "Download")
+### Seamoth Enhancement System (Legacy)
+[Download v 0.9.2](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.2.zip "Download")
 
-Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, Turbo mode, Cruise Control, Gears and Speedometer.
+Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, Turbo mode, Cruise Control, Gears and Speedometer. This is the last version without the Safety Enhancements.
 
 [![Seamoth Enhancement System](https://staticdelivery.nexusmods.com/mods/1155/images/717/717-1617966280-1962023812.png "Seamoth Enhancement System")](https://staticdelivery.nexusmods.com/mods/1155/images/717/717-1617966280-1962023812.png "Seamoth Enhancement System")
 
