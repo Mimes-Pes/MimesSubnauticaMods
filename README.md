@@ -142,6 +142,18 @@ Oxygen Tank Monitor enables detailed monitoring of Oxygen tank status in HUD as 
 ------------
 
 
+### Remove Options Buttons (Legacy & BepInEx)
+[Download - Legacy](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/RemoveOptionsButtons.zip "Download")
+
+[Download - BepInEx](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/RemoveOptionsButtons-BepInEx.zip "Download")
+
+Sometimes, "Redeem a Key Button" and "Troubleshooting Button" may get in the way to display important buttons, such as "Mods" button. This tiny mod will let you correct that.
+
+[![Remove Options Buttons](https://staticdelivery.nexusmods.com/mods/1155/images/614/614-1608184216-1128578163.png "Remove Options Buttons")](https://staticdelivery.nexusmods.com/mods/1155/images/614/614-1608184216-1128578163.png "Remove Options Buttons")
+
+------------
+
+
 ### Seamoth Enhancement System with Enhanced Enhancements by Super Safety Enhanced Enhancements (Legacy)
 
 [Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.3.zip "Download")
@@ -165,14 +177,5 @@ Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, 
 
 ------------
 
-
-### Remove Options Buttons
-[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/RemoveOptionsButtons.zip "Download")
-
-Sometimes, "Redeem a Key Button" and "Troubleshooting Button" may get in the way to display important buttons, such as "Mods" button. This tiny mod will let you correct that.
-
-[![Remove Options Buttons](https://staticdelivery.nexusmods.com/mods/1155/images/614/614-1608184216-1128578163.png "Remove Options Buttons")](https://staticdelivery.nexusmods.com/mods/1155/images/614/614-1608184216-1128578163.png "Remove Options Buttons")
-
-------------
 
 I am afraid that is the extend of my Subnautica modding contribution, most of which I got help from legendary people like code guru Metious, 2D virtuozo Al-An, Unity expert AndreaDev-3D, inspirational Holograms, and immaculate tester Kelsarhu (Rose).
