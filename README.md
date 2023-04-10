@@ -113,11 +113,10 @@ Oxygen Audio Monitor Chip uses Stalker sounds coded in their tooth DNA, which it
 ### Oxygen Canisters (Legacy)
 ### Idea and parts of code misappropriated (with permission), added cool graphics, skins, lore logic and a chip, and converted to Subnautica Legacy from the original mod by Ramune
 
-This mod will not spam player's Subnautica experience with pirate nonsense, unlike the original exclusive for BepInEx mod, which tries to "guess" if a player purchased or pirated Subnautica game.
-
 [Download v 0.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/raw/main/OxygenCanisters-1.0.0.zip "Download")
 
-Technology to fabricate oxygen canisters is unlocked by acquiring a fragment from Oxygen producing Brain Coral. It is a disposable canister providing player with 35 seconds of additional Oxygen. Canister is made out of titanium and Fiber Mesh, together with Oxygen rich Brain Coral Piece. Oxygen Canister Monitor Chip projects Oxygen canister count and other canister information onto HUD. Quick consume key is now configurable.
+Technology to fabricate oxygen canisters is unlocked by acquiring a fragment from Oxygen producing Brain Coral. It is a disposable canister providing player with 35 seconds of additional Oxygen. Canister is made out of Titanium and Fiber Mesh, together with Oxygen rich Brain Coral Piece. Oxygen Canister Monitor Chip projects Oxygen canister count and other canister information onto HUD. Quick consume key is now configurable.
+This mod will not display messages suspecting player pirated the game, (unlike the original exclusive for BepInEx mod) which tries to "guess" if a player purchased or pirated Subnautica.
 
 [![OxygenCanisters](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-01.png?raw=true "OxygenCanisters")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenCanisters-01.png?raw=true "OxygenCanisters")
 
