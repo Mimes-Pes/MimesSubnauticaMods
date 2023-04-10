@@ -131,7 +131,7 @@ Technology to fabricate oxygen canisters is unlocked by acquiring a fragment fro
 
 [Download v 0.1.0](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenTankMonitor-0.1.0.zip "Download")
 
-Oxygen Tank Monitor enables detailed monitoring of Oxygen tank status in HUD as well as enable a snorkel mode, which allows breathing via snorkel and ensures constant swimming depth with free look at an ocean floor below - just like real snorkeling.
+Oxygen Tank Monitor enables detailed monitoring of Oxygen tank status in HUD as well as enable a snorkel mode, which allows breathing via snorkel and ensures constant swimming depth with free look at an ocean floor below - just like real snorkeling. It is fully Scuba Mainfold compatible.
 
 [![OxygenTankMonitor](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenTankMonitor-01.png?raw=true "OxygenCanisters")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/OxygenTankMonitor-01.png?raw=true "OxygenTankMonitor")
 
