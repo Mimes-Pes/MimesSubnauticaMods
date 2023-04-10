@@ -177,7 +177,7 @@ Enhance your Seamoth with ***animated GUI*** Enhanced Enhancements of original E
 
 
 ### Seamoth Enhancement System (Legacy)
-[Download v 0.9.2](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.2.zip "Download")
+[Download v 0.9.2](https://github.com/Mimes-Pes/MimesSubnauticaMods/raw/main/SeamothEnhancementSystem-0.9.2.zip "Download")
 
 Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, Turbo mode, Cruise Control, Gears and Speedometer. This is the last version without the Safety Enhancements.
 
@@ -187,7 +187,7 @@ Enhance your Seamoth with Lo & Hi beam Headlights, in-cabin Battery Management, 
 
 
 ### Start With Empty Hands (Legacy)
-[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/StartWithEmptyHands.zip "Download")
+[Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/raw/main/StartWithEmptyHands.zip "Download")
 
 Does exactly as the title suggests.
 
