@@ -154,6 +154,14 @@ Sometimes, "Redeem a Key Button" and "Troubleshooting Button" may get in the way
 ------------
 
 
+### Remove Startup Disclaimer (BepInEx)
+[Download - BepInEx](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/RemoveStartupDisclaimer-BepInEx.zip "Download")
+
+Does exactly as the title suggests.
+
+------------
+
+
 ### Seamoth Enhancement System with Enhanced Enhancements by Super Safety Enhanced Enhancements (Legacy)
 
 [Download](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/SeamothEnhancementSystem-0.9.3.zip "Download")
