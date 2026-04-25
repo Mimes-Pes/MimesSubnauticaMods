@@ -91,7 +91,7 @@ Improve your Moonpool. At a glance check your vehicle cell capacity, charge and 
 
 This simple mod adds now up to 8 extra Chip slots in the PDA - all up 10 slots available! Players can now use up to 10 items which require a chip to be inserted into the Chip slot simultaneously. Extra number of chip slots is configurable - 4, 6, 8 or 10.
 
-[![MoreChipSlots](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-01.png?raw=true "MoreChipSlots")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-03.png?raw=true "MoreChipSlots")
+[![MoreChipSlots](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-03.png?raw=true "MoreChipSlots")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-03.png?raw=true "MoreChipSlots")
 
 [![MoreChipSlots](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-01.png?raw=true "MoreChipSlots")](https://github.com/Mimes-Pes/MimesSubnauticaMods/blob/main/MoreChipSlots-01.png?raw=true "MoreChipSlots")
 
